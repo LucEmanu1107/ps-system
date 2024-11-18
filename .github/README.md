@@ -13,12 +13,6 @@ You can Download the latest build from here: https://github.com/derklaro/ps-syst
 To use the system you have to upload the plugin core to your Lobby server's plugin folder. Then create a new folder
 called `plugins/ps/modules` and upload the lobby as well as the cloud module to this folder.
 
-The following cloud systems are supported:
-
-- [CloudNET V2.1.17](https://github.com/CloudNetService/CloudNet) using the module ps-cloudnet2-legacy.
-- [CloudNET V2.2+](https://github.com/CloudNetService/CloudNet/tree/development) using the module ps-cloudnet2.
-- [CloudNET V3.4+](https://github.com/CloudNetService/CloudNet-v3) using the module ps-cloudnet3.
-
 Then create a new
 
 - Task (if you are using cloudnet 3)
